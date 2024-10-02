@@ -9,7 +9,7 @@ How many times, we found marvelouns information on video, but, BUT, when we star
 No body was hurt in the making of this project.
 
 ## Running the TTS Server
-I will run this project, using a notebook into the jupyter lab environment provide for Nvidia AI Workbench. 
+I will run this project, using a notebook into the jupyter lab environment provided by Nvidia AI Workbench. 
 
 From there, I will call the [coqui-ai TTS server](https://github.com/coqui-ai/TTS/tree/dev?tab=readme-ov-file#installation), running from docker. How? I show You in details, with images or better, a Video about [HOW TO run the TTS Server from docker](https://github.com/coqui-ai/TTS/tree/dev?tab=readme-ov-file#docker-image).
 
